@@ -9,11 +9,20 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@typescript-eslint/parser": "^5.61.0",
     "eslint": "^8.0.1",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-import-resolver-typescript": "^2.5.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.26.0",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "eslint-plugin-react-native": "^3.11.0",
     "expo": "~48.0.18",
     "expo-status-bar": "~1.4.4",
     "react": "18.2.0",
-    "react-native": "0.71.8"
+    "react-native": "0.71.8",
+    "styled-components": "^6.0.2"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
